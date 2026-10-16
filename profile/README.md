@@ -16,7 +16,7 @@ Sneak preview — what we're working on next:
 
 - `kessel-Kore` — Its A EVM SVM Bridge !!
 - `kessel-ui-tui` — The is the window into Kessel !!
-- `Parsec` — Its A Fast Route instand Finality !!
+- `Parsec` — Its A Fast Route instant Finality !!
 - `parsec-ui-tui-` — This Is the window into Parsec !!
 
 ## Download Builds
